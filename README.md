@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stateforest
-- 👀 I’m interested in game design
+- 👀 I’m interested in game design & gameplay engineering
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
