@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stateforest
 - 👀 I’m interested in gameplay programming/mechanics
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C# in Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
