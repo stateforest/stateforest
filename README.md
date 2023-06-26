@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stateforest
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
